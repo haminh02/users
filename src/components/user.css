@@ -1,0 +1,20 @@
+.user{
+    padding-left: 50px;
+}
+
+.user > h1{
+    color: #eb5757;
+}
+
+.user > p{
+    color: black;
+    font-size: 25px;
+}
+
+.user .username{
+    color: #f2994b;
+}
+
+.user > h2{
+    color: #2f80ed;
+}
